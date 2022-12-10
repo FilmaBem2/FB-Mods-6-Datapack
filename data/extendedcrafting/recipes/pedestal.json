@@ -1,0 +1,21 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      " AAA ",
+      " ABA ",
+      "AAAAA",
+      "AAAAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "forge:ingots/iron"
+      },
+      "B": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": {
+      "item": "extendedcrafting:pedestal",
+      "count": 1
+    }
+  }

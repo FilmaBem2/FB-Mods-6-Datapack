@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    " AAAA",
+    " AABA",
+    " AAB ",
+    "   B ",
+    "   B "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/netherite"
+    },
+    "B": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_axe",
+    "count": 1
+  }
+}

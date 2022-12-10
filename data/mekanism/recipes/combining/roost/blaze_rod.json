@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"item":"minecraft:blaze_rod"}},
+    "mainInput":{"ingredient":{"item":"chicken_roost:chickenchicken"}},
+    "output":{"item":"chicken_roost:e_chicken_blaze_rod"}
+}

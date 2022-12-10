@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "mekanism:basic_chemical_tank"
+    },
+    "addition": {
+      "item": "extendedcrafting:the_ultimate_catalyst"
+    },
+    "result": {
+      "item": "mekanism:advanced_chemical_tank"
+    }
+  }

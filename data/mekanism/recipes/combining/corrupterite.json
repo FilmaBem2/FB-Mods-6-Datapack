@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"item":"upgradednetherite:corrupt_essence"}},
+    "mainInput":{"ingredient":{"tag":"forge:ingots/netherite"}},
+    "output":{"count":2,"item":"upgradednetherite:corrupt_upgraded_netherite_ingot"}
+}

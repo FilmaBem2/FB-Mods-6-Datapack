@@ -1,0 +1,5 @@
+{
+    "type":"mekanism:enriching",
+    "input":{"ingredient":{"item":"powah:uraninite_ore"}},
+    "output":{"count":6, "item":"powah:uraninite"}
+}

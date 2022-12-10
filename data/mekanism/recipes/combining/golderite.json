@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"tag":"forge:ingots/gold"}},
+    "mainInput":{"ingredient":{"tag":"forge:ingots/netherite"}},
+    "output":{"count":2,"item":"upgradednetherite:gold_upgraded_netherite_ingot"}
+}

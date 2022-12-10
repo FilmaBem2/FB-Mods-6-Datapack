@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "a": {
+        "item": "minecraft:book"
+      },
+      "b": {
+        "item": "minecraft:paper"
+      },
+      "c": {
+        "item": "minecraft:iron_ingot"
+      },
+      "d": {
+        "item": "minecraft:brick"
+      }
+    },
+    "pattern": [
+      "aaa",
+      "cbc",
+      "ddd"
+    ],
+    "result": {
+      "item": "patchouli:guide_book",
+      "nbt": {
+        "patchouli:book": "patchouli:fbmods6-welcome"
+    }
+    }
+  }

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "extendedcrafting:basic_table"
+    },
+    "addition": {
+      "item": "extendedcrafting:the_ultimate_catalyst"
+    },
+    "result": {
+      "item": "extendedcrafting:advanced_table"
+    }
+  }

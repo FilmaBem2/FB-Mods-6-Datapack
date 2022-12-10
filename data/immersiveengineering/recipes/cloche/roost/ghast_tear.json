@@ -1,0 +1,8 @@
+{
+    "type":"immersiveengineering:cloche",
+    "input":{"item":"chicken_roost:e_chicken_ghasttear"},
+    "render":{"type":"crop","block":"minecraft:wheat"},
+    "results":[{"count":12,"item":"minecraft:ghast_tear"}],
+    "soil":{"item":"minecraft:hay_block"},
+    "time":10
+}

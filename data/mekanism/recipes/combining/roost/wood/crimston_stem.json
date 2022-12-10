@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"item":"minecraft:crimston_stem"}},
+    "mainInput":{"ingredient":{"item":"chicken_roost:chickenchicken"}},
+    "output":{"item":"chicken_roost:e_chicken_crimston_stem"}
+}

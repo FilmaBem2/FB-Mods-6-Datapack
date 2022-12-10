@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "  AAA",
+    "   BA",
+    "  B A",
+    " B   ",
+    "B    "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/netherite"
+    },
+    "B": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_pickaxe",
+    "count": 1
+  }
+}

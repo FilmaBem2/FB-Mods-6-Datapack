@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"tag":"forge:dusts/prismarine"}},
+    "mainInput":{"ingredient":{"tag":"forge:ingots/netherite"}},
+    "output":{"count":2,"item":"upgradednetherite:water_upgraded_netherite_ingot"}
+}

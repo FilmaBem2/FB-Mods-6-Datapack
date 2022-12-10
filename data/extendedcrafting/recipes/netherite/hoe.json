@@ -1,0 +1,22 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      "AAAAA",
+      "A  B ",
+      "  B  ",
+      " B   ",
+      "B    "
+    ],
+    "key": {
+      "A": {
+        "tag": "forge:ingots/netherite"
+      },
+      "B": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "minecraft:netherite_hoe",
+      "count": 1
+    }
+  }

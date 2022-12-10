@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"tag":"forge:dyes"}},
+    "mainInput":{"ingredient":{"item":"chicken_roost:chickenchicken"}},
+    "output":{"item":"chicken_roost:e_chicken_ink"}
+}

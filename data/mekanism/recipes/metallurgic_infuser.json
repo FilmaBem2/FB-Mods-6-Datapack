@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag":"forge:ingots/iron"
+    },
+    "b": {
+      "tag":"forge:dusts/redstone"
+    },
+    "c": {
+      "tag":"forge:ingots/osmium"
+    },
+    "d": {
+      "item": "mysticalagriculture:inferium_furnace"
+    }
+  },
+  "pattern": [
+    "cac",
+    "bdb",
+    "cac"
+  ],
+  "result": {
+    "item": "mekanism:metallurgic_infuser"
+  }
+}
+

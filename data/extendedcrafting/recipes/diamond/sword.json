@@ -1,0 +1,22 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "    A",
+    "   A ",
+    " AA  ",
+    " BA  ",
+    "B    "
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:gems/diamond"
+    },
+    "B": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_sword",
+    "count": 1
+  }
+}

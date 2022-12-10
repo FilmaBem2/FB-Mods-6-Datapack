@@ -1,0 +1,19 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "A   A",
+    "AA AA",
+    "AAAAA",
+    "AAAAA",
+    "AAAAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_chestplate",
+    "count": 1
+  }
+}

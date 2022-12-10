@@ -1,0 +1,19 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "AAAAA",
+    "AAAAA",
+    "AA AA",
+    "AA AA",
+    "AA AA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_leggings",
+    "count": 1
+  }
+}

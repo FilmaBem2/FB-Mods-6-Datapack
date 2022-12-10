@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "tag": "forge:dusts/redstone"
+    },
+    "b": {
+      "tag": "forge:slimeballs"
+    },
+    "c": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "d": {
+      "item": "rftoolsbase:dimensionalshard"
+    },
+    "e": {
+      "tag": "forge:gems/lapis"
+    },
+    "f": {
+      "tag": "forge:gunpowder"
+    }
+  },
+  "pattern": [
+    "abc",
+    "dce",
+    "f  "
+  ],
+  "result": {
+    "item": "extendedcrafting:luminessence"
+  }
+}

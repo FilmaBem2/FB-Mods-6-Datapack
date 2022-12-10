@@ -1,0 +1,5 @@
+{
+    "type":"mekanism:enriching",
+    "input":{"ingredient":{"item":"powah:deepslate_uraninite_ore_poor"}},
+    "output":{"count":3, "item":"powah:uraninite"}
+}

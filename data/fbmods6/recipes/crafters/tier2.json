@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "rftoolsutility:crafter1"
+    },
+    "addition": {
+      "item": "extendedcrafting:the_ultimate_catalyst"
+    },
+    "result": {
+      "item": "rftoolsutility:crafter2"
+    }
+  }

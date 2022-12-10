@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"tag":"forge:ender_pearls"}},
+    "mainInput":{"ingredient":{"tag":"forge:ingots/netherite"}},
+    "output":{"count":2,"item":"upgradednetherite:ender_upgraded_netherite_ingot"}
+}

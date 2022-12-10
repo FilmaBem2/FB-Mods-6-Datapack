@@ -1,0 +1,5 @@
+{
+    "type":"mekanism:enriching",
+    "input":{"ingredient":{"item":"mysticalagradditions:insanium_essence"}},
+    "output":{"count":4,"item":"mysticalagradditions:insanium_ingot"}
+}

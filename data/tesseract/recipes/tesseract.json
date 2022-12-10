@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": [
+      {
+        "tag": "forge:obsidian"
+      }
+    ],
+    "B": [
+      {
+        "tag": "forge:dusts/ender_pearl"
+      }
+    ],
+    "C": [
+      {
+        "tag": "forge:storage_blocks/diamond"
+      }
+    ]
+  },
+  "result": {
+    "item": "tesseract:tesseract"
+  }
+}

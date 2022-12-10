@@ -1,0 +1,17 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "AA AA",
+    "AA AA",
+    "AA AA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/netherite"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"item":"minecraft:echo_shard"}},
+    "mainInput":{"ingredient":{"tag":"forge:ingots/netherite"}},
+    "output":{"count":2,"item":"upgradednetherite:echo_upgraded_netherite_ingot"}
+}

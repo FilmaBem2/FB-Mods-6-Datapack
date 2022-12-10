@@ -1,0 +1,22 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      "BBBBB",
+      "BAAAB",
+      "BAAAB",
+      "BAAAB",
+      "BBBBB"
+    ],
+    "key": {
+      "A": {
+        "tag": "minecraft:tnt"
+      },
+      "B": {
+        "tag": "minecraft:obsidian"
+      }
+    },
+    "result": {
+      "item": "mekanismadditions:obsidian_tnt",
+      "count": 1
+    }
+  }

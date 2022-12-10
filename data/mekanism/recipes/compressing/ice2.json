@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:compressing",
+    "chemicalInput":{"amount":1,"gas":"mekanism:osmium"},
+    "itemInput":{"ingredient":{"item":"minecraft:packed_ice"}},
+    "output":{"item":"minecraft:blue_ice"}
+}

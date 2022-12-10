@@ -1,0 +1,17 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "AAAAA",
+    "A   A",
+    "A   A"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/netherite"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      "AAAAA",
+      "A  B ",
+      "  B  ",
+      " B   ",
+      "B    "
+    ],
+    "key": {
+      "A": {
+        "tag": "forge:gems/diamond"
+      },
+      "B": {
+        "tag": "forge:rods/wooden"
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond_hoe",
+      "count": 1
+    }
+  }

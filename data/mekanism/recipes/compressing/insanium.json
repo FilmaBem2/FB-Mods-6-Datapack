@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:compressing",
+    "chemicalInput":{"amount":1,"gas":"mekanism:osmium"},
+    "itemInput":{"ingredient":{"item":"mysticalagradditions:insanium_essence"}},
+    "output":{"count": 4, "item":"mysticalagradditions:insanium_gemstone"}
+}

@@ -1,0 +1,19 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "A   A",
+    "AA AA",
+    "AAAAA",
+    "AAAAA",
+    "AAAAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:ingots/netherite"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_chestplate",
+    "count": 1
+  }
+}

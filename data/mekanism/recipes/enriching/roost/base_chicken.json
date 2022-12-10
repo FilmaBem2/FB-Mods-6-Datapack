@@ -1,0 +1,5 @@
+{
+    "type":"mekanism:enriching",
+    "input":{"ingredient":{"item":"minecraft:egg"}},
+    "output":{"item":"chicken_roost:chickenchicken"}
+}

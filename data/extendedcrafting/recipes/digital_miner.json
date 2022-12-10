@@ -1,0 +1,41 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      "AAAABBBBB",
+      "BBBBAAAAA",
+      "CCCCCCCCC",
+      "DDDEEEDDD",
+      "GGGEFEGGG",
+      "DDDEEEDDD",
+      "CCCCCCCCC",
+      "BBBBAAAAA",
+      "AAAABBBBB"
+    ],
+    "key": {
+      "A": {
+        "tag": "forge:gems/fluix"
+      },
+      "B": {
+        "item": "extendedcrafting:flux_star"
+      },
+      "C": {
+        "tag": "forge:ingots/enhanced_ender_ingot"
+      },
+      "D": {
+        "item": "extendedcrafting:ender_star"
+      },
+      "E": {
+        "item": "mekanism:robit"
+      },
+      "F": {
+        "item": "rftoolsbuilder:builder"
+      },
+      "G": {
+        "item": "mekanism:logistical_sorter"
+      }
+    },
+    "result": {
+      "item": "mekanism:digital_miner",
+      "count": 1
+    }
+  }

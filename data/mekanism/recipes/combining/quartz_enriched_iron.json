@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"tag":"forge:gems/quartz"}},
+    "mainInput":{"amount":3, "ingredient":{"tag":"forge:ingots/iron"}},
+    "output":{"item":"refinedstorage:quartz_enriched_iron"}
+}

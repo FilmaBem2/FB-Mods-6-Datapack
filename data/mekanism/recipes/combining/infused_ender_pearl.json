@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"item":"ae2:ender_dust"}},
+    "mainInput":{"ingredient":{"item":"rftoolsbase:dimensionalshard"}},
+    "output":{"item":"rftoolsbase:infused_enderpearl"}
+}

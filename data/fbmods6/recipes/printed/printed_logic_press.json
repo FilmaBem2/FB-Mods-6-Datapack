@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:gold_ingot"
+    },
+    "addition": {
+      "item": "ae2:logic_processor_press"
+    },
+    "result": {
+      "item": "ae2:printed_logic_processor"
+    }
+  }

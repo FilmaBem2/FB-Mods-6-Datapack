@@ -1,0 +1,8 @@
+{
+    "type":"immersiveengineering:cloche",
+    "input":{"item":"chicken_roost:chickenchicken"},
+    "render":{"type":"crop","block":"minecraft:wheat"},
+    "results":[{"count":2,"item":"minecraft:egg"}],
+    "soil":{"item":"minecraft:hay_block"},
+    "time":10
+}

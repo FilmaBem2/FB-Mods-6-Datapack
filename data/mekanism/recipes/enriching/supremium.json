@@ -1,0 +1,5 @@
+{
+    "type":"mekanism:enriching",
+    "input":{"ingredient":{"item":"mysticalagriculture:supremium_essence"}},
+    "output":{"count":4,"item":"mysticalagriculture:supremium_ingot"}
+}

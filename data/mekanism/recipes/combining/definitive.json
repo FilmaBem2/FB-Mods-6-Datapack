@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:combining",
+    "extraInput":{"ingredient":{"item":"extendedcrafting:crystaltine_ingot"}},
+    "mainInput":{"ingredient":{"item":"extendedcrafting:enhanced_ender_ingot"}},
+    "output":{"count":6,"item":"extendedcrafting:the_ultimate_nugget"}
+}

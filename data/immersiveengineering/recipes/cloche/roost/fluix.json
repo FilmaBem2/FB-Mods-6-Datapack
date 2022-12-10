@@ -1,0 +1,8 @@
+{
+    "type":"immersiveengineering:cloche",
+    "input":{"item":"chicken_roost:e_chicken_ae_fluix_crystal"},
+    "render":{"type":"crop","block":"minecraft:wheat"},
+    "results":[{"count":12,"item":"ae2:fluix_crystal"}],
+    "soil":{"item":"minecraft:hay_block"},
+    "time":10
+}

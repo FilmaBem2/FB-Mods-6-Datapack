@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:diamond"
+    },
+    "addition": {
+      "item": "ae2:engineering_processor_press"
+    },
+    "result": {
+      "item": "ae2:printed_engineering_processor"
+    }
+  }

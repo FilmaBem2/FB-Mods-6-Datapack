@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:metallurgic_infusing",
+    "chemicalInput":{"amount":10,"tag":"mekanism:diamond"},
+    "itemInput":{"ingredient":{"item":"rftoolsbase:dimensionalshard"}},
+    "output":{"item":"rftoolsbase:infused_diamond"}
+}
