@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:flint"
+      },
+      {
+        "tag": "fbmods6:materials/steel"
+      }
+    ],
+    "result": {
+      "item": "minecraft:flint_and_steel"
+    }
+  }

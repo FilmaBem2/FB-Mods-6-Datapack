@@ -1,0 +1,22 @@
+{
+    "type": "extendedcrafting:shaped_ender_crafter",
+    "pattern": [
+      "CBC",
+      "BAB",
+      "CBC"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:nether_star"
+      },
+      "B": {
+        "item": "extendedcrafting:ender_star"
+      },
+      "C": {
+          "item": "extendedcrafting:flux_star"
+      }
+    },
+    "result": {
+      "item": "extendedcrafting:the_ultimate_ingot"
+    }
+  }

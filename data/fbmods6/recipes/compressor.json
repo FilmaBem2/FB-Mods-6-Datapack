@@ -1,0 +1,84 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 200000,
+    "input": {
+      "item": "extendedcrafting:black_iron_block"
+    },
+    "ingredients": [
+      {
+        "item": "mysticalagradditions:insanium_block"
+      },
+      {
+        "item": "mysticalagradditions:insanium_block"
+      },
+      {
+        "item": "mysticalagradditions:insanium_block"
+      },
+      {
+        "item": "mysticalagradditions:insanium_block"
+      },
+      {
+        "item": "mysticalagradditions:insanium_block"
+      },
+      {
+        "item": "mysticalagradditions:insanium_block"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "extendedcrafting:nether_star_block"
+      },
+      {
+        "item": "extendedcrafting:nether_star_block"
+      },
+      {
+        "item": "extendedcrafting:nether_star_block"
+      },
+      {
+        "item": "extendedcrafting:nether_star_block"
+      },
+      {
+        "item": "extendedcrafting:nether_star_block"
+      },
+      {
+        "item": "mekanism:ultimate_control_circuit"
+      },
+      {
+        "item": "mekanism:ultimate_control_circuit"
+      },
+      {
+        "item": "mekanism:ultimate_control_circuit"
+      },
+      {
+        "item": "extendedcrafting:ender_ingot_block"
+      },
+      {
+        "item": "extendedcrafting:ender_ingot_block"
+      },
+      {
+        "item": "extendedcrafting:ender_ingot_block"
+      },
+      {
+        "item": "extendedcrafting:ender_ingot_block"
+      },
+      {
+        "item": "extendedcrafting:ender_ingot_block"
+      },
+      {
+        "item": "extendedcrafting:ender_ingot_block"
+      }
+    ],
+    "result": {
+      "item": "extendedcrafting:compressor"
+    }
+  }

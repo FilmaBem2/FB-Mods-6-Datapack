@@ -1,0 +1,84 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 100000,
+    "input": {
+      "item": "minecraft:netherite_helme"
+    },
+    "ingredients": [
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "mekanism:hdpe_sheet"
+      },
+      {
+        "item": "mekanism:hdpe_sheet"
+      },
+      {
+        "item": "mekanism:hdpe_sheet"
+      },
+      {
+        "item": "mekanism:hdpe_sheet"
+      },
+      {
+        "item": "mekanism:hdpe_sheet"
+      },
+      {
+        "item": "mekanism:hdpe_sheet"
+      },
+      {
+        "item": "mekanism:hdpe_sheet"
+      },
+      {
+        "item": "mekanism:hdpe_sheet"
+      }
+    ],
+    "result": {
+      "item": "mekanism:mekasuit_helmet"
+    }
+  }

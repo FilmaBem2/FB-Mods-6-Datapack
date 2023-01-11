@@ -1,0 +1,85 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 500000,
+    "input": {
+      "item": "mekanism:ultimate_induction_cell"
+    },
+    "ingredients": [
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "extendedcrafting:the_ultimate_catalyst"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:coal"
+      },
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:redstone"
+      },
+      {
+        "item": "minecraft:slime_ball"
+      },
+      {
+        "item": "minecraft:slime_ball"
+      },
+      {
+        "item": "minecraft:slime_ball"
+      },
+      {
+        "item": "minecraft:slime_ball"
+      },
+      {
+        "item": "powah:uraninite"
+      },
+      {
+        "item": "powah:uraninite"
+      },
+      {
+        "item": "powah:uraninite"
+      },
+      {
+        "item": "powah:uraninite"
+      },
+      {
+        "item": "mekanism:ultimate_control_circuit"
+      },
+      {
+        "item": "mekanism:ultimate_control_circuit"
+      }
+    ],
+    "result": {
+      "item": "powah:reactor_starter",
+      "count": 36
+    }
+  }
